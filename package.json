@@ -1,0 +1,13 @@
+{
+  "name": "PrimeiraAPI",
+  "version": "1",
+  "description": "Entendendo os fundamentos de Rest",
+  "main": "index.js",
+  "repository": "https://github.com/False-King/PrimeiraAPI",
+  "author": "False-King <tu.marcelo2412@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
